@@ -6,7 +6,8 @@ Team Fortress 2's original/basic HUD. Use this to start customizing your own.
 
 material/console is intentionally empty but contents of this dir are allowed in Valve servers
 
-Files from official vpk: ~~~~
+Files from official vpk: 
+```
 materials/console/background01.vmt
 materials/console/background02.vmt
 materials/console/background_2fort.vmt
@@ -141,5 +142,6 @@ materials/console/title_team_tough_break_widescreen.vmt
 materials/console/title_team_widescreen.vmt
 materials/console/title_war.vmt
 materials/console/title_war_widescreen.vmt
-~~~~
+
+```
 
